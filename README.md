@@ -8,7 +8,7 @@ Inspired by https://github.com/andjsrk/create-curried.
 
 ## Installation
 ```bash
-composer require nemorize/create-curried
+composer require nemorize/curried
 ```
 
 ## Usage

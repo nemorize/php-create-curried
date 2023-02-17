@@ -1,0 +1,20 @@
+{
+    "name": "nemorize/curried",
+    "description": "A utility to create curried functions that its parameters are reordered by user-defined order.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nemorize\\Curried\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ji Yong, Kim",
+            "email": "nemo@qroffle.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
